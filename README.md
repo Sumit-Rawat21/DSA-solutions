@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -27,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Hash Table
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
+## String
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
+## Counting
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->
