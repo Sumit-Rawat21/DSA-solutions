@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2145-grid-game](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2145-grid-game) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0494-target-sum) |
+## Matrix
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2145-grid-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
