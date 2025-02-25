@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0035-search-insert-position) |
 | [0494-target-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0494-target-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
