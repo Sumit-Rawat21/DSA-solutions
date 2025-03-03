@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3429-special-array-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1236-n-th-tribonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
