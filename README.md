@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0035-search-insert-position) |
+| [0152-maximum-product-subarray](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0747-min-cost-climbing-stairs) |
