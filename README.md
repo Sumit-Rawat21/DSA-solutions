@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1394-minimum-path-cost-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1394-minimum-path-cost-in-a-grid](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [2145-grid-game](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2145-grid-game) |
 ## Prefix Sum
 |  |
