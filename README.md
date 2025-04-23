@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0797-rabbits-in-forest) |
 | [1236-n-th-tribonacci-number](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1500-count-largest-group](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1500-count-largest-group) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1500-count-largest-group) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## String
 |  |
