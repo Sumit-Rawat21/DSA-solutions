@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3429-special-array-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
