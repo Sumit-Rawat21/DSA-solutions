@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2145-grid-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0797-rabbits-in-forest) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Tree
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0035-search-insert-position) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -159,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
