@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0868-push-dominoes) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0868-push-dominoes) |
 | [1236-n-th-tribonacci-number](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1394-minimum-path-cost-in-a-grid) |
 ## Backtracking
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sliding Window
 |  |
