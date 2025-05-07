@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/0820-find-eventual-safe-states) |
 | [3189-find-champion-ii](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3189-find-champion-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3429-special-array-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [2145-grid-game](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2145-grid-game) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sumit-Rawat21/DSA-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
